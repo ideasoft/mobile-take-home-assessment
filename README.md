@@ -20,12 +20,12 @@ https://testcase.myideasoft.com/ sitesi üzerinden
 - Ürün detay
 - Arama
 
-sayfalarını barındıran uygulama geliştirilecektir.
+sayfalarını içeren uygulama geliştirilecektir.
 
 ## Görev 2 - E-ticaret sitesi Yönetim paneli uygulaması
 https://testcase.myideasoft.com/admin-api adresi üzerinden
 - Ürün sayfası (listeleme - ekleme - silme)
-- Kategori sayfasu (listeleme - ekleme - düzenleme - silme)
+- Kategori sayfası (listeleme - ekleme - düzenleme - silme)
 
 sayfalarını barındıran uygulama geliştirilecektir.
 
