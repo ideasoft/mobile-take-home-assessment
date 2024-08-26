@@ -23,7 +23,7 @@ https://testcase.myideasoft.com/ sitesi üzerinden
 sayfalarını içeren uygulama geliştirilecektir.
 
 ## Görev 2 - E-ticaret sitesi Yönetim paneli uygulaması
-https://testcase.myideasoft.com adresine ait admin api üzerinden
+https://testcase.myideasoft.com adresine ait Admin API (API v2) üzerinden
 - Ürün sayfası (listeleme - ekleme - silme)
 - Kategori sayfası (listeleme - ekleme - düzenleme - silme)
 
