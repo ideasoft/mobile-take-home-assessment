@@ -2,7 +2,7 @@
 
 ## Prosedür
 - Lütfen bu görev için bir github reposu açın ve adresini bizimle paylaşın.
-- Görevin tamamlanacağı yazılım dili Dart / Flutter'dır.
+- Görevin tamamlanacağı teknoloji JavaScript / TypeScript ve React Native’dir.
 - Tercih ettiğiniz ek library veya framework'ü kullanabilirsiniz.
 - Veritabanı, kuyruk vb. 3.ncü parti araçları gerektiren görevlerde ürün/teknoloji sınırlaması yoktur.
 - Dilediğiniz dış kaynaklardan faydalanabilirsiniz. Lütfen kullandığınız dış kaynak ve kodları görev içerisinde yorum olarak belirtin.
